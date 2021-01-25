@@ -32,3 +32,8 @@ After soldering the device you need to flash it.
 ![](/Images/Image5.jpg)
 ![](/Images/Image6.jpg)
 
+### Case
+
+Files in "Case" folder. Two parts, main and cover. 0.4 nozzle, 0.2 layer, no supports.
+![](/Images/Case1.jpg)
+![](/Images/Case2.jpg)
